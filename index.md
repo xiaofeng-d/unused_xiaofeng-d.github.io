@@ -2,7 +2,7 @@
 
 I'm a Ph.D. student at [The University of Chicago](https://www.uchicago.edu/), [Department of Physics](https://physics.uchicago.edu/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I currently work with the [Cosmological Physics and Advanced Computing](https://cpac.hep.anl.gov/) group at [Argonne National Laboratory](https://www.anl.gov/) on physical cosmology large-scale structure of the universe.
 
 ### Markdown
 
