@@ -2,11 +2,13 @@
 
 I'm a Ph.D. student at [The University of Chicago](https://www.uchicago.edu/), [Department of Physics](https://physics.uchicago.edu/).
 
-I currently work with the [Cosmological Physics and Advanced Computing](https://cpac.hep.anl.gov/) group at [Argonne National Laboratory](https://www.anl.gov/) on physical cosmology large-scale structure of the universe.
+I currently work with the [Cosmological Physics and Advanced Computing](https://cpac.hep.anl.gov/) group at [Argonne National Laboratory](https://www.anl.gov/) on physical cosmology large-scale structure of the universe. Before Chicago, I obtained my bacholor's degree in science from Department of Physics, [Peking University](http://english.phy.pku.edu.cn/)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Music 
+
+Apart from physics, music has been the most enjoyable element in my life. I'm a member of the [chamber music program](https://music.uchicago.edu/performance-opportunities/instrumental/chamber-music) where I have rehearsed in piano trios, duet and quintet.  I'm working on a few contemporary music composition projects, in collaboration with my performer friends, and also arranged a variety of Anime/Comics/Games theme music. 
 
 ```markdown
 Syntax highlighted code block
