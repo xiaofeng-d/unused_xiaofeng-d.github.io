@@ -5,7 +5,7 @@ I'm a Ph.D. student at [The University of Chicago](https://www.uchicago.edu/), [
 I currently work with the [Cosmological Physics and Advanced Computing](https://cpac.hep.anl.gov/) group at [Argonne National Laboratory](https://www.anl.gov/) on physical cosmology large-scale structure of the universe. Before Chicago, I obtained my Bacholor's degree in Science from Department of Physics, [Peking University](http://english.phy.pku.edu.cn/).
 
 ### Research Interests
-Some of my current research interests include imprints of primordial non-gaussianity on large-scale structure, cosmological theory and simulations combined with high-performance computing, and application of advanced statistical / deep learning methods to the study of physical cosmology.
+Some of my current research interests include primordial non-gaussianity and the large-scale structure of the unviverse, cosmological theory and simulations combined with high-performance computing, and application of advanced statistical / deep learning methods to the study of physical cosmology.
 
 
 
