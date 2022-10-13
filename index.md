@@ -4,6 +4,22 @@ I'm a Ph.D. student at [The University of Chicago](https://www.uchicago.edu/), [
 
 I currently work with the [Cosmological Physics and Advanced Computing](https://cpac.hep.anl.gov/) group at [Argonne National Laboratory](https://www.anl.gov/) on physical cosmology large-scale structure of the universe. Before Chicago, I obtained my Bacholor's degree in Science from Department of Physics, [Peking University](http://english.phy.pku.edu.cn/).
 
+
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/xiaofeng-d/xiaofeng-d.github.io">Notes </a>
+    ·
+    <a href="https://github.com/xiaofeng-d/xiaofeng-d.github.io">Contact Me</a>
+    ·
+    <a href="https://github.com/xiaofeng-d/xiaofeng-d.github.io">Contact Me</a>
+  </p>
+</div>
+
+
 ### Research Interests
 Some of my current research interests include primordial non-gaussianity and the large-scale structure of the unviverse, cosmological theory and simulations combined with high-performance computing, and application of advanced statistical / deep learning methods to the study of physical cosmology.
 
