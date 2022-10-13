@@ -6,15 +6,12 @@ I currently work with the [Cosmological Physics and Advanced Computing](https://
 
 
   <p align="center">
- 
+
     <br />
  
     <br />
     <br />
     <a href="https://xiaofeng-d.github.io"> Notes </a>
-    ·
-  
-    ·
     <a href="https://xiaofeng-d.github.io">Contact Me</a>
   </p>
 </div>
