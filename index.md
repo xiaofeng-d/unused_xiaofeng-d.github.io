@@ -6,16 +6,16 @@ I currently work with the [Cosmological Physics and Advanced Computing](https://
 
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+ 
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+ 
     <br />
     <br />
-    <a href="https://github.com/xiaofeng-d/xiaofeng-d.github.io">Notes </a>
+    <a href="https://xiaofeng-d.github.io"> Notes </a>
     ·
-    <a href="https://github.com/xiaofeng-d/xiaofeng-d.github.io">Contact Me</a>
+  
     ·
-    <a href="https://github.com/xiaofeng-d/xiaofeng-d.github.io">Contact Me</a>
+    <a href="https://xiaofeng-d.github.io">Contact Me</a>
   </p>
 </div>
 
