@@ -11,10 +11,10 @@ I currently work with the [Cosmological Physics and Advanced Computing](https://
  
     <br />
     <br />
-    <a href="https://xiaofeng-d.github.io"> Notes </a>
+    <a href="https://xiaofeng-d.github.io/notes.html"> Notes </a>
     .
     .
-    <a href="https://xiaofeng-d.github.io/notes.md"> Contact Me</a>
+    <a href="https://xiaofeng-d.github.io"> Contact Me</a>
   </p>
 </div>
 
